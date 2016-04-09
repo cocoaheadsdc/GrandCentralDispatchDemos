@@ -361,11 +361,3 @@ extension GcdTutorialHelper {
         }
     }
 }
-
-
-
-
-
-
-
-
