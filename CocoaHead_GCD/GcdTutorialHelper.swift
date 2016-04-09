@@ -10,7 +10,7 @@ import Foundation
 
 class GcdTutorialHelper {
 
-    private let DemoFolder = "/Users/singhh/Desktop/gcd_dispatch_sources_demo"
+    private let DemoFolder = "/tmp/gcd_dispatch_sources_demo"
 
     private let closureOne = {
         print("one")
