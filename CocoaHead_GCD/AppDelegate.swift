@@ -3,7 +3,6 @@
 //  CocoaHead_GCD
 //
 //  Created by Singh, Hardip on 4/3/16.
-//  Copyright © 2016 Washiington Post. All rights reserved.
 //
 
 import UIKit
